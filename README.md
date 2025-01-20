@@ -1,1 +1,2 @@
 # Messaging-Program
+A multi-threaded message queue client and terminal-based chat application built with POSIX threads, RESTful HTTP, and libcurl. The client library interacts with a Python-based pub/sub server, enabling asynchronous message publishing and retrieval via concurrent data structures. Features include real-time user communication, multi-topic subscriptions, and robust resource management for scalable, distributed systems.
